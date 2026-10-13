@@ -1,0 +1,12 @@
+{
+  "run_at": "2026-10-13T23:05:00+08:00",
+  "accounts": {
+    "MinLiBuilds": "1679698342283186177",
+    "Lonely__MH": "2926712868"
+  },
+  "note": "restored stub after helper setup; original scan reported 1 hit 2109928298214223894",
+  "new_hits": [
+    "2109928298214223894"
+  ],
+  "baseline": false
+}
