@@ -1,0 +1,186 @@
+{
+  "run_at": "2026-10-15T10:04:00.000Z",
+  "accounts": [
+    "MinLiBuilds",
+    "Lonely__MH"
+  ],
+  "posts_checked": [
+    {
+      "id": "2110387114164810070",
+      "author": "MinLiBuilds",
+      "views": 132229,
+      "rate_per_hour": 12516.1,
+      "qualified": true,
+      "already_pushed": false
+    },
+    {
+      "id": "2110398220274925850",
+      "author": "MinLiBuilds",
+      "views": 23927,
+      "rate_per_hour": 1872.0,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2110663155772796965",
+      "author": "Lonely__MH",
+      "views": 864,
+      "rate_per_hour": 1320.8,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2110641499918762162",
+      "author": "Lonely__MH",
+      "views": 1877,
+      "rate_per_hour": 898.8,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2110599256570810823",
+      "author": "MinLiBuilds",
+      "views": 2577,
+      "rate_per_hour": 527.4,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2110530769525596579",
+      "author": "MinLiBuilds",
+      "views": 4020,
+      "rate_per_hour": 426.7,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2110616035535749315",
+      "author": "MinLiBuilds",
+      "views": 1490,
+      "rate_per_hour": 394.7,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2110597023221309842",
+      "author": "Lonely__MH",
+      "views": 1942,
+      "rate_per_hour": 385.8,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2110514740795457576",
+      "author": "Lonely__MH",
+      "views": 3732,
+      "rate_per_hour": 349.8,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2110526530904584221",
+      "author": "MinLiBuilds",
+      "views": 3305,
+      "rate_per_hour": 340.6,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2110617863451275694",
+      "author": "Lonely__MH",
+      "views": 786,
+      "rate_per_hour": 215.1,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2110589611357646863",
+      "author": "Lonely__MH",
+      "views": 1073,
+      "rate_per_hour": 194.2,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2110316508824174886",
+      "author": "MinLiBuilds",
+      "views": 4271,
+      "rate_per_hour": 171.6,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2110350323470807051",
+      "author": "Lonely__MH",
+      "views": 8432,
+      "rate_per_hour": 159.0,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2110547954117529640",
+      "author": "MinLiBuilds",
+      "views": 1245,
+      "rate_per_hour": 150.3,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2110523967840931891",
+      "author": "MinLiBuilds",
+      "views": 1146,
+      "rate_per_hour": 116.1,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2110596512782970911",
+      "author": "MinLiBuilds",
+      "views": 545,
+      "rate_per_hour": 107.5,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2110535720486236607",
+      "author": "MinLiBuilds",
+      "views": 903,
+      "rate_per_hour": 99.3,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2110368397351600530",
+      "author": "Lonely__MH",
+      "views": 1976,
+      "rate_per_hour": 49.2,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2110393551205109891",
+      "author": "Lonely__MH",
+      "views": 1357,
+      "rate_per_hour": 45.7,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2110322728364552475",
+      "author": "Lonely__MH",
+      "views": 1128,
+      "rate_per_hour": 13.0,
+      "qualified": false,
+      "already_pushed": false
+    }
+  ],
+  "new_hits": [
+    {
+      "id": "2110387114164810070",
+      "author": "MinLiBuilds",
+      "views": 132229,
+      "rate_per_hour": 12516.1,
+      "title": "新加坡Claude人均强度全球第二"
+    }
+  ]
+}
